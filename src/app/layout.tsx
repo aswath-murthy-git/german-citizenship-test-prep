@@ -81,6 +81,9 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+  verification: {
+    google: "5P6bAsucAHm-NWu_UQzkSdfbTIfTXWsd8u0wWL5ZGUY",
+  },
   category: "Education",
   manifest: "/manifest.json",
 };
